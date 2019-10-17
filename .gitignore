@@ -1,2 +1,6 @@
 # Project exclude paths
 /venv/
+/.idea/
+products/__pycache__/
+products/migrations/__pycache__/
+pydjangoshop/__pycache__/
